@@ -53,7 +53,8 @@ Register
 Pages
 ----
 
- <b> users </b>
+ <b> Users </b>
+ 
 index.aspx - intro page with login navigation 
 
 UserRegister.aspx - user account registeration
@@ -64,5 +65,12 @@ CourseRegister.aspx - choose course and request register course
 
 MyBoard.aspx - my course page with details of registration
 
-Admin 
+
+<b> Admin </b>
+
+Login.aspx - admin authorization
+
+RegisterList.aspx - list of user's request, allow searching and sorting with key
+
+UpdateRegister.aspx - accept or reject action about request
 
