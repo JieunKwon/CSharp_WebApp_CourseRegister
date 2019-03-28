@@ -24,3 +24,28 @@ Page Details
 5. View Registeration Status
 
 6. Admin - Accept or Reject user's registration
+
+
+Database
+----
+
+User Account
+
+Admin Account
+
+Course and Course Details
+
+Course Register
+
+
+Class Design
+----
+
+UserAccount
+
+Admin
+
+Course
+
+Register
+
