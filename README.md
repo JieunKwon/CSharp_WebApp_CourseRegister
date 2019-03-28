@@ -49,3 +49,20 @@ Course
 
 Register
 
+
+Pages
+----
+
+ <b> users </b>
+index.aspx - intro page with login navigation 
+
+UserRegister.aspx - user account registeration
+
+CourseList.aspx - allow user search course with keyword
+
+CourseRegister.aspx - choose course and request register course
+
+MyBoard.aspx - my course page with details of registration
+
+Admin 
+
