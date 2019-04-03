@@ -6,8 +6,13 @@ Summary
 
 Create a Web Application, that allows users to search for Online Courses offered by an institution. 
 
-Users should be allowed to search for courses based on multiple fields, request registration, view their
-registration status or withdraw their registration request
+Users can get the list of Courses and search for courses based on multiple fields.
+
+Users request registration and view their registration status.
+
+For the details, user can access users' page to manage their information such as My Order, My Account, and My Cart.
+
+Before admin's accept user's request, user can withdraw their registration request.
 
 
 Page Details
