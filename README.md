@@ -15,6 +15,28 @@ For the details, user can access users' page to manage their information such as
 Before admin's accept user's request, user can withdraw their registration request.
 
 
+Develop Environment
+-----
+
+- C#, ASP.NET
+
+- MS-SQL 2017
+
+- IDE : VS2017
+
+- HTML, CSS, BootStrap, JQuery
+
+
+
+Additional Technic
+-----
+
+- Authorization for user's access management
+
+- Salt and hash to store user's password  
+
+
+
 Page Details
 -----
 
