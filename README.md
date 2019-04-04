@@ -33,9 +33,28 @@ Additional Technic
 
 - Authorization for user's access management
 
-- Salt and hash to store user's password  
+- Authentication in a hash-based account  
 
 
+Salt and Hashed Password
+----
+
+A new random salt must be generated each time a user creates an account or changes their password.
+
+
+WorkFlow of Authentication in a hash-based account system  
+----
+
+1. The user creates an account
+
+2. Their password is hashed and stored in the database
+
+3. When the user attempts to login, the hash of the password they entered is checked against the hash of their real password (retrieved from the database)
+
+4. If the hashes match, the user is granted access. 
+
+   If not, the user is told they entered invalid login credentials 
+ 
 
 Page Details
 -----
