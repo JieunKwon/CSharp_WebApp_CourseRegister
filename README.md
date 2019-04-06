@@ -42,8 +42,7 @@ Salt and Hashed Password
 A new random salt must be generated each time a user creates an account or changes their password.
 
 
-WorkFlow of Authentication in a hash-based account system  
-----
+<b>WorkFlow of Authentication in a hash-based account system  </b>
 
 1. The user creates an account
 
