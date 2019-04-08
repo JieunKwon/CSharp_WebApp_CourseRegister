@@ -111,6 +111,7 @@ CourseRegister.aspx - choose course and request register course
 MyBoard.aspx - my course page with details of registration
 
 
+
 <b> Admin </b>
 
 Login.aspx - admin authorization
