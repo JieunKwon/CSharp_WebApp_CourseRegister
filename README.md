@@ -124,4 +124,18 @@ UpdateRegister.aspx - accept or reject action about request
 Page Features
 ----
 
-<img src='main.jpg' width='400px'>
+1. Login
+
+<img src='login.png' width='300px'>
+
+2. Main
+
+<img src='main.png' width='500px'>
+
+3. Course Selection
+
+<img src='main.png' width='500px'>
+
+4. My Dashboard
+
+<img src='myBoard.png' width='500px'>
