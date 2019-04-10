@@ -134,8 +134,12 @@ Page Features
 
 3. Course Selection
 
-<img src='main.png' width='500px'>
+<img src='course.png' width='500px'>
 
 4. My Dashboard
 
 <img src='myBoard.png' width='500px'>
+
+5. Admin
+
+<img src='admin.png' width='500px'>
