@@ -22,7 +22,7 @@ Develop Environment
 
 - MS-SQL 2017
 
-- IDE : VS2017
+- IDE : Visual Studio 2017
 
 - HTML, CSS, BootStrap, JQuery
 
