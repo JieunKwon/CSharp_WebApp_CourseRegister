@@ -120,3 +120,8 @@ RegisterList.aspx - list of user's request, allow searching and sorting with key
 
 UpdateRegister.aspx - accept or reject action about request
 
+
+Page Features
+----
+
+<img src='main.jpg' width='400px'>
