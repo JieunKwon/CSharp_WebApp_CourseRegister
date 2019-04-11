@@ -74,25 +74,38 @@ Page Details
 Database
 ----
 
-User Account
+- User Account
 
-Admin Account
+- Admin Account
 
-Course and Course Details
+- Course and Course Details
 
-Course Register
+- Course Register
 
 
 Class Design
 ----
 
-UserAccount
+- UserAccount
 
-Admin
+- Admin
 
-Course
+- Course
 
-Register
+- Register
+
+- RegisterDetail
+
+
+<b> DAO </b>
+
+- UserAccountAction
+
+- HashPwdAction
+
+- CourseViewAction
+
+- RegisterAction
 
 
 Pages
