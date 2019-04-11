@@ -118,25 +118,27 @@ Pages
 
  <b> Users </b>
  
-index.aspx - intro page with login navigation 
+1. index.aspx - intro page with login navigation 
 
-UserRegister.aspx - user account registeration
+2. UserRegister.aspx - new user account registeration
 
-CourseList.aspx - allow user search course with keyword
+3. Login.aspx - user login to access register page
 
-CourseRegister.aspx - choose course and request register course
+4. CourseList.aspx - allow user search course with keyword
 
-MyBoard.aspx - my course page with details of registration
+5. CourseRegister.aspx - choose course and request register course
+
+6. MyDashBoard.aspx - my course page with details of registration
 
 
 
 <b> Admin </b>
 
-Login.aspx - admin authorization
+1. AdminLogin.aspx - admin authorization
 
-RegisterList.aspx - list of user's request, allow searching and sorting with key
+2. RegisterList.aspx - list of user's request, allow searching and sorting with key
 
-UpdateRegister.aspx - accept or reject action about request
+3. UpdateRegister.aspx - accept or reject action about request
 
 
 Page Features
