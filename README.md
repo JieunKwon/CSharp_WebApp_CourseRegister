@@ -87,6 +87,7 @@ Class Design
 ----
 
 <b> Entities </b>
+
 - UserAccount
 
 - Admin
@@ -97,6 +98,9 @@ Class Design
 
 - RegisterDetail
 
+<b> ENum </b>
+
+- RegisterStatus
 
 <b> DAO </b>
 
