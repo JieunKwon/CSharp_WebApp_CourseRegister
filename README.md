@@ -128,11 +128,11 @@ Page Features
 
 <img src='login.png' width='300px'>
 
-2. Main
+2. Index page
 
 <img src='main.png' width='500px'>
 
-3. Course Selection
+3. Course List for Request
 
 <img src='course.png' width='500px'>
 
@@ -140,6 +140,6 @@ Page Features
 
 <img src='myBoard.png' width='500px'>
 
-5. Admin
+5. Admin Page 
 
 <img src='admin.png' width='500px'>
