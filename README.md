@@ -86,6 +86,7 @@ Database
 Class Design
 ----
 
+<b> Entities </b>
 - UserAccount
 
 - Admin
