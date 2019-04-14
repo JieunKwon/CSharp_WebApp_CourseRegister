@@ -162,4 +162,4 @@ Page Features
 
 5. Admin Page 
 
-<img src='admin.png' width='500px'>
+<img src='admin2.png' width='500px'>
