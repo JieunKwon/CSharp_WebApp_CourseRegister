@@ -18,13 +18,13 @@ Before admin's accept user's request, user can withdraw their registration reque
 Develop Environment
 -----
 
-- C#, ASP.NET
+- C# 7.0, .NET Core, ASP.NET 
 
 - MS-SQL 2017
 
 - IDE : Visual Studio 2017
 
-- HTML, CSS, BootStrap, JQuery
+- HTML, CSS, BootStrap 4, JQuery
 
 
 
